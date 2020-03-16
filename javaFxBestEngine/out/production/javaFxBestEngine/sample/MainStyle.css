@@ -1,0 +1,17 @@
+/*.root{*/
+    /*-fx-background-image: url("/Images/oodle.jpg");*/
+    /*-fx-background-size: cover;*/
+    /*-fx-font-weight: bold;*/
+    /*-fx-font-size:120%*/
+/*}*/
+
+#pane{
+    -fx-background-image: url("/Images/oodle.jpg");
+    -fx-background-repeat: stretch;
+    -fx-background-size: 1000 600;
+    -fx-background-position: center center;
+    -fx-effect: dropshadow(three-pass-box, black, 30, 0.5, 0, 0);
+}
+
+
+
